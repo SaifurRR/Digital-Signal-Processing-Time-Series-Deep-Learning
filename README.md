@@ -1,5 +1,8 @@
 # Time-Series-Deep-Learning
 
+### 1. Time Sequence Classification Using Deep Learning
+This project shows how to classify sequence data using a long short-term memory (LSTM) network. To train a deep neural network to classify sequence data, we use an LSTM network. An LSTM network enables you to input sequence data into a network and make predictions based on the individual time steps of the sequence data.
+This project uses the Waveform data set to train the LSTM network to recognize the type of waveform given Time Series data. The training data contains Time Series data for four types of waveform. Each sequence has three channels and varies in length.
 
 ### 2. Classify ECG Signals Using Long Short-Term Memory Networks with GPU Acceleration
 This project shows how to build a classifier to detect Atrial Fibrillation in ECG signals using an LSTM network.
