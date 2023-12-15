@@ -13,12 +13,6 @@ each signal significantly improves the Classification performance and also decre
 
 ### 3. Signal-Processing-Synthetic-Health-Data
 
-Classification Report:
-               precision    recall  f1-score   support
+![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Classification_Report.png)
 
-           0       0.00      0.00      0.00      1005
-           1       0.50      1.00      0.66       995
-
-    accuracy                           0.50      2000
-   macro avg       0.25      0.50      0.33      2000
-weighted avg       0.25      0.50      0.33      2000
+![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Synthetic-Health-Data-Filtered-Signal.png)
