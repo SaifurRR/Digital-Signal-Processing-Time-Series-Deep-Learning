@@ -10,3 +10,15 @@ The procedure uses oversampling to avoid the classification bias that occurs whe
 conditions in populations composed mainly of healthy patients. Training the LSTM network using raw signal
 data results in poor classification accuracy. Training the network using two Time-Frequency-moment features for
 each signal significantly improves the Classification performance and also decreases the training time.
+
+### 3. Signal-Processing-Synthetic-Health-Data
+
+Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      1005
+           1       0.50      1.00      0.66       995
+
+    accuracy                           0.50      2000
+   macro avg       0.25      0.50      0.33      2000
+weighted avg       0.25      0.50      0.33      2000
