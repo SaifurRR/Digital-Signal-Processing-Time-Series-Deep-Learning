@@ -40,3 +40,6 @@ each signal significantly improves the Classification performance and also decre
 
 ### 16. Quantization Oversampling: Sound Effects in PC Video Games
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Quantization_Oversampling.png)
+
+### 17. Granular Synthesis Voice Transformers
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Granular_Synthesi_Voice_Transformers.jpg)
