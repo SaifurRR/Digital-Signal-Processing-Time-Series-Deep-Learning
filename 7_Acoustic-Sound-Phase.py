@@ -246,8 +246,6 @@ plt.show()
 IPython.display.Audio(prepare(xrp, mv), rate=Fs)
 
 
-# In[ ]:
-
 
 
 
