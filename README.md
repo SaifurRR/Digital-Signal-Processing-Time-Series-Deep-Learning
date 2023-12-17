@@ -16,3 +16,11 @@ each signal significantly improves the Classification performance and also decre
 ![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Classification_Report.png)
 
 ![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Synthetic-Health-Data-Filtered-Signal.png)
+
+### 7. Acoustic Sound Phase
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/piano_wave.png)
+
+### 8. Beat Frequencies
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/beat_frequencies.png)
