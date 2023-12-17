@@ -32,5 +32,5 @@ each signal significantly improves the Classification performance and also decre
 ### 11. FIR Filter: periodic extension
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/FIR_periodic_extension.png)
 
-### 13. LMS Filter Echo Cancellation
+### 13. LMS Filter: Echo Cancellation
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/LMS-Filter-Echo-Cancellation.png)
