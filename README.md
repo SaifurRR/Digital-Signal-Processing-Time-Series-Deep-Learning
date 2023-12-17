@@ -43,3 +43,9 @@ each signal significantly improves the Classification performance and also decre
 
 ### 17. Granular Synthesis Voice Transformers
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Granular_Synthesi_Voice_Transformers.jpg)
+
+### 18. Data Transmission over Noisy Channel
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Data_Tx_Noisy_Channel.png)
+
+### 19. Remez Algorithm Channel Simulator
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Remez-Algorithm-Channel-Simulator.png)
