@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# # Filtering Music
+# # Filtering A
 # 
 # In this notebook we will design and use filters to extract specific audio information from a piece of music.
 
