@@ -24,3 +24,7 @@ each signal significantly improves the Classification performance and also decre
 ### 8. Beat Frequencies
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/beat_frequencies.png)
+
+### 9. STFT Spectrogram
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/STFT_spectrogram.png)
