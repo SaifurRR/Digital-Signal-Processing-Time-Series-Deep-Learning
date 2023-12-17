@@ -13,8 +13,7 @@ each signal significantly improves the Classification performance and also decre
 
 ### 3. Signal Processing Synthetic Health Data
 
-
-![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Classification_Report.png)
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Classification_Report.png)
 
 ![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Synthetic-Health-Data-Filtered-Signal.png)
 
