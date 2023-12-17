@@ -11,7 +11,7 @@ conditions in populations composed mainly of healthy patients. Training the LSTM
 data results in poor classification accuracy. Training the network using two Time-Frequency-moment features for
 each signal significantly improves the Classification performance and also decreases the training time.
 
-### 3. Signal-Processing-Synthetic-Health-Data
+### 3. Signal Processing Synthetic Health Data
 
 ![ALT TEXT](https://github.com/SaifurRR/Time-Series-Health-Data-Deep-Learning/blob/main/3_Classification_Report.png)
 
