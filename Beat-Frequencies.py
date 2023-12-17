@@ -3,10 +3,7 @@
 
 # # Exploring Beat Frequencies
 # 
-# This simple notebook will let you play with close frequencies and hear the beatings created by intermodulation. It's also a cute example of the interactivity you can achieve with notebooks.
-
-# In[4]:
-
+# This simple code will let us play with close frequencies and hear the beatings created by intermodulation. It's also a great example of the interactivity we can achieve with Jupyter Notebook.
 
 # standard bookkeeping
 get_ipython().magic('matplotlib inline')
@@ -43,9 +40,6 @@ def beat_freq(f1=220.0, f2=224.0):
     display(Audio(data=s, rate=Fs))
     # display one second of audio
     plt.plot(s[0:int(Fs)])
-
-
-# In[ ]:
 
 
 
