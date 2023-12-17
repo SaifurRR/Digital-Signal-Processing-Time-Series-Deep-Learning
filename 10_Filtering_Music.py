@@ -104,14 +104,6 @@ y = sp.lfilter(hh, [1], s);
 IPython.display.Audio(data = y, rate = SF)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
