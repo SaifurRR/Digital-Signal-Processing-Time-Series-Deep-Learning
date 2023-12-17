@@ -28,3 +28,6 @@ each signal significantly improves the Classification performance and also decre
 ### 9. STFT Spectrogram
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/STFT_spectrogram.png)
+
+### 11. FIR Filter: periodic extension
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/FIR_periodic_extension.png)
