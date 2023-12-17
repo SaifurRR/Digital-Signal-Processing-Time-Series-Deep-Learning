@@ -1,15 +1,3 @@
-
-# coding: utf-8
-
-# # Hearing the phase of a sound
-# 
-# In this notebook we will investigate the effect of phase on the perceptual quality of a sound. It is often said that the human ear is lergely insensitive to phase and that's why most of the equalization in commercial-grade audio equipment takes place in the magnitude domain only.
-# 
-# 
-
-# In[18]:
-
-
 get_ipython().magic('matplotlib inline')
 import matplotlib
 import matplotlib.pyplot as plt
