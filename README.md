@@ -37,3 +37,6 @@ each signal significantly improves the Classification performance and also decre
 
 ### 14. Band Limited Interpolation: Radiation Measurement
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Band_Limited_Interpolation.png)
+
+### 16. Quantization Oversampling: Sound Effects in PC Video Games
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Quantization_Oversampling.png)
