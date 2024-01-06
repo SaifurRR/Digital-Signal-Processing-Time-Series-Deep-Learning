@@ -51,7 +51,13 @@ each signal significantly improves the Classification performance and also decre
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Remez-Algorithm-Channel-Simulator.png)
 
 ### 20. Time Series (Kaggle)
-#### Linear Regression Tunnel Traffic
 
 ##### Dataset: https://www.kaggle.com/datasets/ryanholbrook/ts-course-data
+
+#### Linear Regression Tunnel Traffic
+
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Linear-Regression-Tunnel-Traffic.png)
+
+#### Linear Regression Book, Store Sales & AR 
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Lag-plot-Average-Store-Sales.png)
