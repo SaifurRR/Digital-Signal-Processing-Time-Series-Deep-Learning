@@ -58,6 +58,6 @@ each signal significantly improves the Classification performance and also decre
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Linear-Regression-Tunnel-Traffic.png)
 
-#### Linear Regression Book, Store Sales & AR 
+#### Linear Regression Store Sales 
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Lag-plot-Average-Store-Sales.png)
