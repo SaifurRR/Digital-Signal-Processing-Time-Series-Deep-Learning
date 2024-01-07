@@ -65,3 +65,7 @@ each signal significantly improves the Classification performance and also decre
 #### Linear Trend Forecast 
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Linear-Trend-Forecast.png)
+
+#### Polynomial Trend Forecast 
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Trend-Forecast-US-Retail-Sales.png)
