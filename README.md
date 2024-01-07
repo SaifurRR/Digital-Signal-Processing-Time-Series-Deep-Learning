@@ -61,3 +61,7 @@ each signal significantly improves the Classification performance and also decre
 #### Linear Regression Store Sales 
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Lag-plot-Average-Store-Sales.png)
+
+#### Linear Trend Forecast 
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Linear-Trend-Forecast.png)
