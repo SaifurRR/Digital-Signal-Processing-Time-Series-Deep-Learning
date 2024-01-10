@@ -69,3 +69,13 @@ each signal significantly improves the Classification performance and also decre
 #### Polynomial Trend Forecast 
 
 ![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Trend-Forecast-US-Retail-Sales.png)
+
+#### Periodogram Seasonality
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Periodogram-Seasonality-Tunnel-Traffic.png)
+
+#### Seasonality Forecast
+
+![ALT TEXT](https://github.com/SaifurRR/Digital-Signal-Processing-Time-Series-Deep-Learning/blob/main/Kaggle-Time-Series/Seasonality-Fourier-Features-Tunnel-Traffic.png)
+
+
